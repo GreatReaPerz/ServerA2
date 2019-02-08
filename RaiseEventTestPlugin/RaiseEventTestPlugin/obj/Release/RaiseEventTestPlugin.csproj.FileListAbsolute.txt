@@ -1,0 +1,17 @@
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\RaiseEventTestPlugin.dll
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\RaiseEventTestPlugin.pdb
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\ExitGamesLibs.dll
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\Photon.SocketServer.dll
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\PhotonHivePlugin.dll
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\ExitGamesLibs.pdb
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\ExitGamesLibs.xml
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\Photon.SocketServer.pdb
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\Photon.SocketServer.xml
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Release\RaiseEventTestPlugin.csprojResolveAssemblyReference.cache
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Release\RaiseEventTestPlugin.dll
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Release\RaiseEventTestPlugin.pdb
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\MySql.Data.dll
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\Google.Protobuf.dll
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\MySql.Data.xml
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Release\Photon.SocketServer.dll.config
+C:\Users\ValuedAcerCustomer\Documents\NYPGDT\Server\Lab 04\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Release\RaiseEventTestPlugin.csproj.CoreCompileInputs.cache
